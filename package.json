@@ -1,7 +1,7 @@
 {
   "name": "pet-shop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!",
   "main": "truffle.js",
   "directories": {
     "test": "test"
@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phangster/election.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Phangster/election/issues"
+  },
+  "homepage": "https://github.com/Phangster/election#readme"
 }
