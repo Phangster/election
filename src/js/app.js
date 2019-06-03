@@ -59,6 +59,7 @@ App = {
 
     loader.show();
     content.hide();
+    content.show()
 
     // Load account data
     web3.eth.getCoinbase(function(err, account) {
